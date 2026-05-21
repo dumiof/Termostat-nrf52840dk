@@ -1,0 +1,1 @@
+# Termostat-nrf52840dk
